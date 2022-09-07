@@ -1,0 +1,53 @@
+html {
+    font-family: sans-serif;
+    background: url("question.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  
+  }
+
+
+  body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;   
+    color: white; 
+    text-align: center;
+
+}
+
+P {
+    color: white;
+    text-align: center;
+}
+
+
+#input {
+    width: 100px;
+    margin: 25px auto; 
+
+}
+
+#btn {
+    margin: 25px auto auto 5px;
+    
+
+
+    h1 {
+        color: white;
+        text-align: center;
+      
+      }
+      
+      h2 {
+        color: white;
+        text-align: center;
+      }
+
+      
+       
+      
+   
